@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Longhao Wang. PHD. student in CAS
 - 👀 I’m working on climate change and eco-hydrology
 - 🌱 I’m currently learning HTML\JS\Linux
-- 💞️ I’m looking for a girlfriend
 - 📫 How to reach me:
 - wanglh.com(not valiable now, http://47.94.135.123/)
 - RG: https://www.researchgate.net/profile/Longhao-Wang
