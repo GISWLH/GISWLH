@@ -6,8 +6,7 @@
 - RG: https://www.researchgate.net/profile/Longhao-Wang
 - Google Scholar: https://scholar.google.com/citations?user=ei3oenUAAAAJ&hl=zh-CN&oi=ao
 - 公众号：matlabRpython地学实践教程  
-![w:200](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
-<img src="https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/%E5%85%AC%E4%BC%97%E5%8F%B7.png" style="zoom:25%;" />
+![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/qrcode_for_gh_34ce282d1728_258.jpg)
 * I'm working on the carbon water coupling models (e.g. PML_v2) for ecohydrology applications. I'm interested in GIS, climate change, water cycle and land cover change.
 <!---
 GISWLH/GISWLH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
