@@ -2,7 +2,6 @@
 - 👀 I’m working on climate change and eco-hydrology
 - 🌱 I’m currently learning HTML\JS\Linux
 - 📫 How to reach me:
-- wanglh.com (or http://47.94.135.123/)
 - RG: https://www.researchgate.net/profile/Longhao-Wang
 - Google Scholar: https://scholar.google.com/citations?user=ei3oenUAAAAJ&hl=zh-CN&oi=ao
 - 公众号：matlabRpython地学实践教程  
