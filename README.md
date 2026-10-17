@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![GISWLH — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 - 👋 Hi, I’m Longhao Wang. PHD. student in Chinese Academy of Science
 - 👀 I’m working on climate change and eco-hydrology using deep learning method
 - 🌱 I’m currently learning HTML\JS
@@ -10,3 +14,18 @@
 GISWLH/GISWLH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Documentation preview · 17 October 2026
+
+![Preview of the repository's profile documentation rendered on EHPC. This is a document preview, not program execution or a benchmark.](assets/readme/execution-result.png)
+
+Preview of the repository's profile documentation rendered on EHPC. This is a document preview, not program execution or a benchmark.
+
+[Capture record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->

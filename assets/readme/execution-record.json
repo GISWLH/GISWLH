@@ -1,0 +1,14 @@
+{
+  "repo": "GISWLH/GISWLH",
+  "environment": "EHPC PBS",
+  "execution_scope": "Preview of the repository's profile documentation rendered on EHPC. This is a document preview, not program execution or a benchmark.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "2b83499c9c4077cf41f458598d1c9f893a5916a42d243ce0b78306414f4db1a5"
+  },
+  "kind": "documentation preview",
+  "project_execution": false,
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}
