@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Longhao Wang. PHD. student in Chinese Academy of Science
 - 👀 I’m working on climate change and eco-hydrology using deep learning method
-- 🌱 I’m currently learning HTML\JS
+- 🌱 I’m currently exploring foundation models, scientific machine learning, and physics-informed deep learning
 - 📫 How to reach me:
 - RG: https://www.researchgate.net/profile/Longhao-Wang
 - Google Scholar: https://scholar.google.com/citations?user=ei3oenUAAAAJ&hl=zh-CN&oi=ao
