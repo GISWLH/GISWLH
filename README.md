@@ -14,7 +14,3 @@
 GISWLH/GISWLH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!-- readme-visual-refresh:artwork-source -->
-[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
-<!-- /readme-visual-refresh:artwork-source -->
