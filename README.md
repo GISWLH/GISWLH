@@ -1,5 +1,5 @@
 <!-- readme-visual-refresh:banner -->
-![GISWLH — hand-drawn project banner](assets/readme/banner.svg)
+![GISWLH — hand-drawn whiteboard: the water–carbon cycle, physics-informed deep learning and foundation models](assets/readme/banner.svg)
 <!-- /readme-visual-refresh:banner -->
 
 - 👋 Hi, I’m Longhao Wang. PHD. student in Chinese Academy of Science
